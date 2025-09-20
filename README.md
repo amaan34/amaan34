@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Faisal Amaan</h1>
-<h3 align="center">An Aspriing Data Scientist</h3>
-
+<h1 align="center">Hi 👋, I'm Amaan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan34&label=Profile%20views&color=0e75b6&style=flat" alt="amaan34" /> </p>
 
